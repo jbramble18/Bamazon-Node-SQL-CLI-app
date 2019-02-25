@@ -7,6 +7,6 @@ Under the customer option, the customer will have the ability to "purchase" item
 
 The items are populated from a mySQL database. The initial database was created with 10 items.
 
-![SQL Database](../images/SQL_database.PNG)
+![SQL Database](./images/SQL_database.PNG)
 ![customer prompt](../images/bamazonCustomer.PNG)
 
