@@ -1,4 +1,4 @@
-# Bamazon-Node-SQL-CLI-app
+# Bamazon Storefront utilizing mySQL and node.js
 
 ## Bamazon Customer Interface
 A "Bamazon" store front that utilizes node and mySQL to take orders and update the bamazon database.
